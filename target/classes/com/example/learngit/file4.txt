@@ -1,2 +1,2 @@
 
-Đây là file ở nhánh branch-1
+Đây là file ở nhánh branch-1 bo xung duoi local de bi conflict
